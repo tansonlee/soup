@@ -17,6 +17,8 @@ Soup is an esoteric programming language where the only identifiers are
 
 Soup is turing complete and compiles into the brainf\*ck language (another esoteric language). It is tape based and encodes 8 basic commands into the word `soup`. The tape starts with all cells having value 0 and a data pointer at the beginning. Each line represents one command.
 
+<img src="assets/soup.png" width="500px"/>
+
 ## Hello World Example
 
 ```
